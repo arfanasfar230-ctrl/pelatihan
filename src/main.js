@@ -45,9 +45,7 @@ async function loadStudents() {
                 <h1>Team Dashboard</h1>
 
                 <p class="subtitle">
-                    Project kolaborasi untuk latihan
-                    Git, GitHub, Branch, Commit,
-                    Push, Pull, dan Pull Request.
+                    From Students For Students.
                 </p>
 
             </div>
@@ -63,13 +61,11 @@ async function loadStudents() {
                     </p>
 
                     <h2>
-                        Development Team
+                        Pelatihan Git & GitHub.
                     </h2>
 
                     <p>
-                        Satu repository digunakan oleh
-                        seluruh anggota untuk mengembangkan
-                        project secara bersama.
+                    
                     </p>
                 </div>
 
